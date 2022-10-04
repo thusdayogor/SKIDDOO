@@ -19,3 +19,11 @@ Application appearance:
 2)Bad site found
 
 ![Image text](https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/2.png)
+
+3)Good site found
+
+![Image text](https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/3.png)
+
+4)ROC
+
+![Image text](https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/4.png)
