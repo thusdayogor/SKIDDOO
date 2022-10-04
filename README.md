@@ -16,3 +16,6 @@ Application appearance:
 ![Image text](https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/1.png)
 
 
+2)Bad site found
+
+![Image text](https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/2.png)
