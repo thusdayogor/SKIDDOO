@@ -14,7 +14,7 @@ Application appearance:
 1)Home page
 
 
-<img src="(https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/1.png" width="500">
+<img src="https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/1.png" width="500">
 
 
 2)Bad site found
