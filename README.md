@@ -13,7 +13,8 @@ Application appearance:
 
 1)Home page
 
-![Image text](https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/1.png)
+
+<img src="(https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/1.png" width="10">
 
 
 2)Bad site found
