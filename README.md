@@ -5,3 +5,4 @@ This project was implemented as a research work. Implements a software package c
 2)A search engine site has been implemented to display filtered content using the Flask framework. 
 3)Implemented a browser for communication using PyQt5.
 
+![Image text](https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/1.png)
