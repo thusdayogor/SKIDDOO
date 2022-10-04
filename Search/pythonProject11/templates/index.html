@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Skiddoo</title>
+    <link rel="stylesheet" href ="static/css/main.css">
+</head>
+<body>
+<header>
+    <IMG class="displayed" src="/static/image/logo.gif" alt="..." style ="width:25%;">
+</header>
+
+<section>
+    <div class = "search-form">
+        <form method="GET">
+            <input type="text" name="input" value = "{{ request.args.get('input','') }}">
+            <button type="submit" name="button">$e@rch</button>
+        </form>
+    </div>
+</section>
+</body>
+</html>

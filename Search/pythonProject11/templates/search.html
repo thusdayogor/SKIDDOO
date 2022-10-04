@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Skiddo search</title>
+    <link rel="stylesheet" href ="static/css/search.css">
+</head>
+<body>
+<header>
+    <IMG class="displayed" src="/static/image/logo.gif" alt="..." style ="width:10%;">
+</header>
+
+<section>
+    <div class = "search-form">
+        <form method="GET">
+            <input type="text" name="input" value = "{{ request.args.get('input','') }}" >
+            <button type="submit" name="button">$e@rch</button>
+        </form>
+        {% for el in data %}
+        <a href="{{ el.url_site }}"><div class ="site-form">
+            {% if el.danger == "The site contains valid content"%} <div class = "change" >{% endif %}
+            <span>{{ el.url_site }} </span>
+            <h4> {{ el.title }} </h4>
+            <h4> {{ el.danger }} </h4>
+            </div>
+        </div>
+        </a>
+        {% endfor %}
+    </div>
+</section>
+
+</body>
+</html>
