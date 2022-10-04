@@ -11,11 +11,10 @@ This project was implemented as a research work. Implements a software package c
 Application appearance:
 
 
-1)Home page:
-
-<p align="center">
+1)Home page: <p align="center">
 <img src="https://github.com/thusdayogor/SKIDDOO-/blob/main/%20ScreenShots/1.png" width="500">
 </p>
+
 
 2)Bad site found:
 
